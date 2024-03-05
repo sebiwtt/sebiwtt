@@ -1,4 +1,11 @@
 ### Hi there 👋
+---
+
+My name is Sebi. I am a Computer Science Student 🎓 and a Full-Stack Software Engineer 👨🏼‍💻 working for Deutsche Telekom in Darmstadt, Germany. 
+
+I am especially interested in web development 🌐 and machine learning 🤖, and I am currently working on MLOps-related topics to combine these two topics.
+
+To learn more about me and my work,  visit my [github.io page](https://sebiwtt.github.io).
 
 <!--
 **sebiwtt/sebiwtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
