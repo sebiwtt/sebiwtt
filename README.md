@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
 
-My name is Sebi. I am a Computer Science Student 🎓 and a Full-Stack Software Engineer 👨🏼‍💻 working for Deutsche Telekom in Darmstadt, Germany. 
+My name is Sebi. I am a Computer Science (ML & AI) Student 🎓 a former Software Engineer 👨🏼‍💻 at Deutsche Telekom, and right now a Data Scientist at Merck KGaA in Darmstadt, Germany. 
 
 I am especially interested in web development 🌐 and machine learning 🤖, and I am currently working on MLOps-related topics to combine these two topics.
 
